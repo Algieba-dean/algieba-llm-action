@@ -12,11 +12,11 @@
 | [Open WebUI 部署与 RAG 实战](https://blog.algieba12.cn/llm02-start-with-open-webui) | 无代码示例 | 本地运行 |
 | [云端炼丹房：Google Colab 免费 GPU 上手指南](https://blog.algieba12.cn/llm02-1-online-environment-colab) | 无示例代码| 无示例代码|
 | [云端炼丹房 2：Kaggle 上上手指南](https://blog.algieba12.cn/llm02-2-online-environment-kaggle) | 无示例代码| 无示例代码 |
-| [拆解 Transformers 原理与图解](https://blog.algieba12.cn/llm03-know-more-about-transformer-lib) | [点击查看](./llm03-transformers.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm03-transformers) |
-| [基于 ChromaDB 打造工程级 RAG 系统](https://blog.algieba12.cn/llm04-rag-llamaindex-chromadb) | [点击查看](./llm04-rag-llamaindex-chromadb.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm04-rag-llamaindex-chromadb) |
-| [大模型微调实战详解](https://blog.algieba12.cn/llm05-fine-tune-model) | [点击查看](./llm05-sft-intro.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm05-sft-intro) |
-| [在 Kaggle 上用 Unsloth 极速微调 Qwen3](https://blog.algieba12.cn/llm06-unsloth-qlora-ft) | [点击查看](./llm06-unsloth-sft.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm06-unsloth-sft) |
-| [基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent](https://blog.algieba12.cn/llm07-react-agent) | [点击查看](./llm07-rss-notification-react-agent-notebook.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm07-rss-notification-react-agent-notebook) |
+| [拆解 Transformers 原理与图解](https://blog.algieba12.cn/llm03-know-more-about-transformer-lib) | [点击查看](https://github.com/Algieba-dean/algieba-llm-action/blob/master/llm03-transformers.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm03-transformers) |
+| [基于 ChromaDB 打造工程级 RAG 系统](https://blog.algieba12.cn/llm04-rag-llamaindex-chromadb) | [点击查看](https://github.com/Algieba-dean/algieba-llm-action/blob/master/llm04-rag-llamaindex-chromadb.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm04-rag-llamaindex-chromadb) |
+| [大模型微调实战详解](https://blog.algieba12.cn/llm05-fine-tune-model) | [点击查看](https://github.com/Algieba-dean/algieba-llm-action/blob/master/llm05-sft-intro.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm05-sft-intro) |
+| [在 Kaggle 上用 Unsloth 极速微调 Qwen3](https://blog.algieba12.cn/llm06-unsloth-qlora-ft) | [点击查看](https://github.com/Algieba-dean/algieba-llm-action/blob/master/llm06-unsloth-sft.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm06-unsloth-sft) |
+| [基于 LlamaIndex ReAct 框架手搓全自动博客监控 Agent](https://blog.algieba12.cn/llm07-react-agent) | [点击查看](https://github.com/Algieba-dean/algieba-llm-action/blob/master/llm07-rss-notification-react-agent-notebook.ipynb) | [Kaggle Notebook](https://www.kaggle.com/code/thaodinhoio/llm07-rss-notification-react-agent-notebook) |
 *(持续更新中...)*
 
 ## 使用指南
