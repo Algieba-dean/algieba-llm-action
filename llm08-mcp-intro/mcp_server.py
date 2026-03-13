@@ -9,7 +9,7 @@ from mcp.server.fastmcp import FastMCP
 # 初始化 MCP 服务器
 current_dir = os.path.dirname(os.path.abspath(__file__)) # 这里锁死脚本所在路径，避免到时候在外层通过client运行mcp的时候，读不到.env
 env_path = os.path.join(current_dir, '.env')
-load_dotenv(env_path)
+load_dotenv(env_path, override=True) # 强行使用.env中的密钥配置
 mcp = FastMCP("Blog_Monitor_Notifier")
 
 # 配置日志
