@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "blog_monitor": {
+      "type": "local",
+      "command": [
+        "uv",
+        "run",
+        "llm08-mcp-intro/mcp_server.py"
+      ],
+      "enabled": true
+    }
+  }
+}
